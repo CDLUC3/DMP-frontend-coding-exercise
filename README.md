@@ -8,6 +8,7 @@ Using React, build a single-page web application.  The application will display 
 
 **Data Source:**
 Retrieve a list of DMP records by DMP ID using the [DMP Tool API ](https://github.com/CDLUC3/dmsp_aws_prototype/wiki/api-overview#data-management-plans)
+
 (e.g. https://api.dmphub.uc3stg.cdlib.net/dmps/10.48321/D1J31B):
 
 **List of DMP IDs:**

@@ -7,15 +7,14 @@ Using React, build a single-page web application.  The application will display 
 - Save any changes
 
 **Data Source:**
-Retrieve a list of DMP records by DMP ID using the [DMP Tool API ](https://github.com/CDLUC3/dmsp_aws_prototype/wiki/api-overview#data-management-plans)
-
+Retrieve a list of DMP records by DMP ID using the [DMP Tool API ](https://github.com/CDLUC3/dmsp_aws_prototype/wiki/api-overview#data-management-plans)\
 (e.g. https://api.dmphub.uc3stg.cdlib.net/dmps/10.48321/D1J31B):
 
 **List of DMP IDs:**
 ['10.48321/D1J31B','10.48321/D1R316','10.48321/D10601','10.48321/D1CW23','10.48321/D1930S','10.48321/D1DW5J','10.48321/D1ERROR']
 
 
-**Processing the response:**
+**Processing the response:**\
 A DMP record can be quite large. You only need to present the following fields to the user. We have included the HTML element we expect you to use along with the source (the field’s location within the JSON response from the API). The **bolded** fields should be editable.
 
 - DMP ID (display type: hyperlink, source: dmp.dmp_id.identifier)

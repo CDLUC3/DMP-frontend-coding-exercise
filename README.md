@@ -36,7 +36,7 @@ The save button should supply the user with a confirmation message, but the call
 - Provide a README file with instructions on how to build and run the app
 - Post your solution to Github in a manner that can be shared with the hiring committee
 
-**Presentation and Discussion of Solution:**
+**Presentation and Discussion of Solution:**\
 During the interview, we ask that you please walk us through your approach and implementation, highlighting areas of best practices utilized, why you chose those practices, any challenges you may have encountered, decisions you made and why you made them, and any other considerations you would like to highlight.  
 
 The hiring committee will ask questions about your solution.  
